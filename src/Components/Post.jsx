@@ -1,6 +1,6 @@
 import React from 'react';
 
-import comment from './Comment';
+import Comment from './Comment';
 
 function Post() {
 
